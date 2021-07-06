@@ -1,8 +1,5 @@
 # Cplusplus-program
 
-# Who is this
-This is matthew Tietz from your class CS-210-T5408. I tried to use my name but for some reason it was taken
-
 # Project summery
 This project main purpose is to read the file named "GroceryList.txt". It will also count the total amount of recurring words.
 Give the user an idea how many times this said word will happen. The project also designed to write it outcome to another file called "frequency.dat"
